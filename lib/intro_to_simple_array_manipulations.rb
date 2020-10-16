@@ -3,6 +3,6 @@ def using_concat(thing_one,thing_two)
 end
 
 def using_insert(array,element)
-  array.insert(element)
+  array.insert(0,element)
 end
   
